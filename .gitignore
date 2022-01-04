@@ -1,0 +1,11 @@
+.vs
+.vscode
+node_modules
+Library
+*.meta
+Packages
+ProjectSettings
+obj
+Logs
+UserSettings
+Tree_Textures
